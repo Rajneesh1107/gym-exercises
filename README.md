@@ -1,9 +1,5 @@
-# _[React Fitness App...](https://fitness-club-app.web.app/)_
-![Screenshot (77)](https://user-images.githubusercontent.com/90378786/198332094-857d1b00-b0cf-421e-9530-4d258081567e.png)
-
-_[Firebase Live Link](https://fitness-club-app.web.app/)_
-
- _[Netlify Live Link](https://fitness-club-app.netlify.app/)_
+# _[React Fitness App...](https://fitness-exercises-ai.netlify.app/)_
+![image](https://github.com/Rajneesh1107/gym-exercises/assets/121326364/b7712b94-797a-4763-af01-cf60c4fb13df)
 
 # _Fitness_
 Physical fitness is a state of health and well-being and, more specifically, the ability to perform aspects of sports, occupations and daily activities. Physical fitness is generally achieved through proper nutrition, moderate-vigorous physical exercise, and sufficient rest along with a formal recovery plan.
@@ -27,7 +23,6 @@ Being physically active can improve your brain health, help manage weight, reduc
 # _About Project_
 
 This is an individual project. Everything is created by me. This website is not a clone of any other website. This is a simple body exercise app. It contains more than a thousand exercises.
-I have also created it's api. You can refer to the repo for more details. [(Server)](https://github.com/SaurabhSinghRbz/fitness-club-server)
 
 
 ## Features of website :
@@ -44,7 +39,7 @@ I have also created it's api. You can refer to the repo for more details. [(Serv
 
 First you need to clone or download this project from here.
 
-https://github.com/SaurabhSinghRbz/fitness-react-project.git
+[https://github.com/Rajneesh1107/gym-exercises]
 
 After cloning the project you need to install its dependencies, for this run this command.
 Do this in both folders (client and Server)
@@ -91,28 +86,29 @@ Technologies that I used to build this project are listed below, if you are not 
 ## _Here are some of my website screenshots..._
 
 ### Landing Page 👇
-![Screenshot (77)](https://user-images.githubusercontent.com/90378786/198342605-b757c9a1-0a6e-4c38-b426-6bf59b5aff9c.png)
+![image](https://github.com/Rajneesh1107/gym-exercises/assets/121326364/e4ef8137-be2d-4310-977f-f87bb7ff8adf)
 
 ### Slider 👇
-![Screenshot (78)](https://user-images.githubusercontent.com/90378786/198342731-14ab9980-f9b3-4cab-a766-6d5e86d226ac.png)
+![image](https://github.com/Rajneesh1107/gym-exercises/assets/121326364/0aa595f7-8691-496d-8f8d-0ca4659e819d)
 
 ### Seaerch and Categoery Part 👇
-![Screenshot (79)](https://user-images.githubusercontent.com/90378786/198342981-a039f0dc-33f2-473e-b907-f83454365a9f.png)
+![image](https://github.com/Rajneesh1107/gym-exercises/assets/121326364/053b58a0-7225-4554-bbf9-cdca9b724238)
 
 ### Exercises 👇
-![Screenshot (80)](https://user-images.githubusercontent.com/90378786/198342987-1a440609-f162-4990-bc0e-129ee2d27087.png)
+![image](https://github.com/Rajneesh1107/gym-exercises/assets/121326364/53abd296-e1e4-43df-adc1-846ddd4c0df0)
 
 ### Exercise Details 👇
-![Screenshot (81)](https://user-images.githubusercontent.com/90378786/198343461-5b27708c-a9bf-407f-8f77-3bcfed76401a.png)
+![image](https://github.com/Rajneesh1107/gym-exercises/assets/121326364/2cbf8680-7cd4-4797-bba4-4e311267f268)
 
 ### Related Videos 👇
-![Screenshot (82)](https://user-images.githubusercontent.com/90378786/198343483-710bab3b-43db-4a9e-b76b-b7b3c123737c.png)
+![image](https://github.com/Rajneesh1107/gym-exercises/assets/121326364/ac24188d-94db-4b4a-9738-c9c40aa8593c)
 
 ### Related Exercises 👇
-![Screenshot (83)](https://user-images.githubusercontent.com/90378786/198343512-af019833-161e-4282-bc67-35773ed3ccf3.png)
+![image](https://github.com/Rajneesh1107/gym-exercises/assets/121326364/67cbd1e8-cba9-42b7-bd4b-aff47e464b12)
 
 ### Related Equipment Exercises 👇
-![Screenshot (84)](https://user-images.githubusercontent.com/90378786/198343523-0fbfa632-bbe3-4d60-97d9-c0da290ddb4a.png)
+![image](https://github.com/Rajneesh1107/gym-exercises/assets/121326364/c40e0e68-1d9d-477c-be04-964e16dc571e)
+
 
 
 
